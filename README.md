@@ -52,10 +52,10 @@ Built with Python and TensorFlow (MNIST dataset), it generates mark sheets in PD
 
 ### 📜 Certifications
 
-- ✅ AWS Certified Cloud Practitioner
-- 🤖 Deep Learning (Coursera)
-- 🔧 Introduction to Git and GitHub
-- 📊 Mathematics for Machine Learning
+- ✅ AWS Certified Cloud Practitioner (https://www.credly.com/badges/9cfc3355-8f22-4e4d-a033-073c907c3328/linked_in_profile)
+- 🤖 Deep Learning (Coursera) [https://coursera.org/share/7fcb24efcc7be075dd24d195bf22c65a]
+- 🔧 Introduction to Git and GitHub (https://coursera.org/share/fbb14913a6d302941ac1e7e50dae562a)
+- 📊 Mathematics for Machine Learning (https://www.coursera.org/account/accomplishments/certificate/UD8N8NZ94N3J)
 
 ---
 
