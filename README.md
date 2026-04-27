@@ -27,12 +27,8 @@
 
 ---
 
-### 📌 Featured Projects
-
-#### 🔒 Blockchain-Based Fake Product Identification  
-A research-backed solution using blockchain to prevent counterfeit products.  
-📄 *Published at ICAEIC-2023*  
-[🔗 View Publication](https://www.researchgate.net/publication/368542684_Blockchain_based_Fake_Product_Identification)
+### 📌 Featured Project
+Leapfrog Internship Projects: [https://sagar-shrestha-swe.github.io/lf_git2/]
 
 #### ✅ To-Do App  
 A React-based dynamic task management app with full CRUD support.
@@ -41,6 +37,11 @@ A React-based dynamic task management app with full CRUD support.
 Built with Python and TensorFlow (MNIST dataset), it generates mark sheets in PDF from extracted digits.
 
 ---
+### 📌 Research Article 
+#### 🔒 Blockchain-Based Fake Product Identification  
+A research-backed solution using blockchain to prevent counterfeit products.  
+📄 *Published at ICAEIC-2023*  
+[🔗 View Publication](https://www.researchgate.net/publication/368542684_Blockchain_based_Fake_Product_Identification)
 
 ### 🎓 Education
 
