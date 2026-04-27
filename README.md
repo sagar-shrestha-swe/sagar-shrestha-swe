@@ -70,8 +70,8 @@ Built with Python and TensorFlow (MNIST dataset), it generates mark sheets in PD
 
 ### 📫 Let’s Connect
 
-- 📧 Email: [sagarshrestha4339@gmail.com](mailto:sagar.shresetha.swe@gmail.com)
-- 🌐 LinkedIn: [linkedin.com/in/sagar-shrestha-9a5646180/](https://linkedin.com/in/sagar-shrestha-swe)
+- 📧 Email: [sagar.shrestha.swe@gmail.com](mailto:sagar.shresetha.swe@gmail.com)
+- 🌐 LinkedIn: [linkedin.com/in/sagar-shrestha-swe/](https://linkedin.com/in/sagar-shrestha-swe)
 
 ---
 
