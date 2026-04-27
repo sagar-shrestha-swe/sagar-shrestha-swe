@@ -43,6 +43,7 @@ A research-backed solution using blockchain to prevent counterfeit products.
 📄 *Published at ICAEIC-2023*  
 [🔗 View Publication](https://www.researchgate.net/publication/368542684_Blockchain_based_Fake_Product_Identification)
 
+---
 ### 🎓 Education
 
 - 🎓 **Master of Professional IT**, Charles Sturt University (2025–2027)
