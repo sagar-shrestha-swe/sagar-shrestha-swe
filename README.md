@@ -19,9 +19,9 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** JavaScript, TypeScript, Python, C, C++, Java, SQL
+- **Languages:** JavaScript, TypeScript, Python, C, C++, c#
 - **Frontend:** React.js, Angular 17, HTML5, CSS3, PrimeNG
-- **Backend:** .NET 8, ASP.NET, REST APIs
+- **Backend:** .NET 8, ASP.NET Core, REST APIs
 - **Database:** PostgreSQL, SQL Server
 - **Cloud & Tools:** AWS, Git, Docker, Postman, SpecFlow, Figma, VS Code
 
